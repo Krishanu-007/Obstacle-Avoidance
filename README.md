@@ -197,5 +197,3 @@ I appreciate your contributions and look forward to making the obstacle avoidanc
 # License
 
 The obstacle avoidance car project is licensed under the [MIT License](./LICENSE).
-
-## MIT License
