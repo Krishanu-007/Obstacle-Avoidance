@@ -24,7 +24,7 @@ This repository contains the source code and documentation for my obstacle avoid
 
 # Introduction
 
-Welcome to the My Obstacle Avoidance Car project! This project aims to create an autonomous car capable of navigating its environment and avoiding obstacles using a set of sensors. Whether you are a robotics enthusiast, a hobbyist, or a developer interested in autonomous systems, this project provides a hands-on experience in building and customizing an obstacle avoidance car. The project has been done on a very minimalistic way such that it stays beginner friendly.
+Welcome to My Obstacle Avoidance Car project! This project aims to create an autonomous car capable of navigating its environment and avoiding obstacles using a set of sensors. Whether you are a robotics enthusiast, a hobbyist, or a developer interested in autonomous systems, this project provides a hands-on experience in building and customizing an obstacle avoidance car. The project has been done on a very minimalistic way such that it stays beginner friendly.
 
 ## Key Features
 
