@@ -1,4 +1,4 @@
-# My Obstacle Avoidance Car Project
+# Obstacle Avoidance Car Project
 
 ## Overview
 
